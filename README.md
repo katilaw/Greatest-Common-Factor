@@ -9,13 +9,12 @@ Key Principle:
 ---
 ```
   The Euclidean algorithm is based on the principle that the greatest common
-   divisor of two numbers does not change if the larger number is replaced by
-    its difference with the smaller number.... Since this replacement reduces
-     the larger of the two numbers, repeating this process gives successively
-      smaller pairs of numbers until one of the two numbers reaches zero. When
-       that occurs, the other number (the one that is not zero) is the GCD of
-        the original two numbers
-
+  divisor of two numbers does not change if the larger number is replaced by
+  its difference with the smaller number.... Since this replacement reduces
+  the larger of the two numbers, repeating this process gives successively
+  smaller pairs of numbers until one of the two numbers reaches zero. When
+  that occurs, the other number (the one that is not zero) is the GCD of
+  the original two numbers
 ```
 https://en.wikipedia.org/wiki/Euclidean_algorithm#Number_of_steps
 
